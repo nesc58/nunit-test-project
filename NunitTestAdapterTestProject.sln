@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NunitTestAdapterTestProject", "NunitTestAdapterTestProject\NunitTestAdapterTestProject.csproj", "{F41A1DFC-BE6C-4CAA-9121-40E4121DAD2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NunitTestAdapterTestProject.Tests", "NunitTestAdapterTestProject.Tests\NunitTestAdapterTestProject.Tests.csproj", "{5E27CBFC-DEC5-4D04-83E3-CD79256045DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F41A1DFC-BE6C-4CAA-9121-40E4121DAD2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F41A1DFC-BE6C-4CAA-9121-40E4121DAD2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F41A1DFC-BE6C-4CAA-9121-40E4121DAD2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F41A1DFC-BE6C-4CAA-9121-40E4121DAD2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E27CBFC-DEC5-4D04-83E3-CD79256045DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E27CBFC-DEC5-4D04-83E3-CD79256045DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E27CBFC-DEC5-4D04-83E3-CD79256045DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E27CBFC-DEC5-4D04-83E3-CD79256045DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
